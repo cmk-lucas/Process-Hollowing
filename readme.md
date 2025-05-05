@@ -14,6 +14,6 @@
 
 ## ⚠️ Avertissement Ce script est destiné uniquement à des fins d'apprentissage et de tests de pénétration. L'utilisation malveillante de cette technique peut entraîner des conséquences légales graves. Ne l'utilisez que dans des environnements contrôlés et avec des autorisations explicites.
 
-## 👨‍💻 Auteurs Ce projet a été développé par **Ton Nom**.
+## 👨‍💻 Auteurs Ce projet a été développé par **cherubin manunga kiaku**.
 
 ## 📝 Licence Ce projet est sous licence MIT. Consultez le fichier LICENSE pour plus de détails.
